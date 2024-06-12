@@ -1,3 +1,4 @@
+package ManipulateStrings;
 import java.util.Arrays;
 
 public class StringManipulations {

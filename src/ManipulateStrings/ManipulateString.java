@@ -1,3 +1,4 @@
+package ManipulateStrings;
 
 public class ManipulateString {
 
