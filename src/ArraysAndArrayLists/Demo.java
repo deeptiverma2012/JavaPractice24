@@ -5,6 +5,13 @@ public class Demo {
 	public void test()
 	{
 		System.out.println("Deepti Test");
+		if(true)
+		{
+			System.out.println("true");
+		}
 	}
 
 }
+
+	
+
